@@ -255,7 +255,7 @@ This is an open-source project under the MIT License.
   <h2>⭐ SUPPORT Pheromind ⭐</h2>
   <p><b>Help fund continued development and new features!</b></p>
   
-  <a href="https://paypal.me/ChrisRoyseAI" target="_blank">
+  <a href="https://paypal.me/hausserdaniel" target="_blank">
     <img src="https://img.shields.io/badge/DONATE_NOW-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate Now" width="300"/>
   </a>
   
